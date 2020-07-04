@@ -1,0 +1,4 @@
+yfinance==0.1.54
+lxml==4.5.1
+numpy==1.19.0
+requests==2.24.0
