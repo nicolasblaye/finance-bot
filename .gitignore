@@ -1,4 +1,7 @@
 ticker_list
+credentials.json
+spreadsheet
+token.pickle
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
