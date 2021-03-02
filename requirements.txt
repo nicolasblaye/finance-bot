@@ -1,5 +1,5 @@
 yfinance==0.1.54
-lxml==4.5.1
+lxml==4.6.2
 numpy==1.19.0
 requests==2.24.0
 google-api-python-client==1.9.3
